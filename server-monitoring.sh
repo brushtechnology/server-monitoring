@@ -356,7 +356,7 @@ MIME-Version: 1.0
 			<td>${METRIC_NAME} = ${METRIC_VALUE}% (&gt; ${LIMIT}%)</td>
 		</tr>
 		<tr>
-			<td style="background: #ddd">Sevirity:</td>
+			<td style="background: #ddd">Severity:</td>
 			<td style="background: #ddd">${SEVERITY}</td>
 		</tr>
 		<tr>
